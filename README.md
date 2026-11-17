@@ -1,4 +1,4 @@
-## Habilidades
+## Technical Skills
 
 <p>
   <img src="assets/swiftui.png" alt="SwiftUI" height="27">
@@ -8,9 +8,13 @@
   <img src="assets/java.png" alt="Java" height="27">
 </p>
 
-## Projetos em destaque
+## About
 
-- **Aiko** — Diário nutricional para iPhone, feito com SwiftUI, React Native e Expo. Permite registrar refeições, revisar porções e acompanhar o consumo do dia.
-- **TCC** — Pesquisa em Python sobre seleção de atributos para prever atrasos logísticos, com Random Forest, XGBoost e avaliação em janelas cronológicas.
-- **Registro Alimentar Inteligente** — Protótipo acadêmico em React e Expo para registro de refeições. [Ver código](https://github.com/pedrohenrimoreira/registro-alimentar-prototipo)
-- **K-Centers em grafos** — Comparação em Java entre uma heurística e busca exaustiva para selecionar centros em grafos. [Ver código](https://github.com/pedrohenrimoreira/Graphs-TP02)
+I'm a Computer Science student at PUC Minas in Belo Horizonte, Brazil. I build iOS and web applications and have professional experience maintaining and improving manufacturing software.
+
+## Selected Projects
+
+- **Aiko** · I'm building a nutrition journal for iPhone with native SwiftUI screens integrated into a React Native app. It lets users log meals, adjust portions, and review their daily intake.
+- **Undergraduate Research** · I studied how feature selection affects the prediction of shipping delays. I evaluated Random Forest and XGBoost in Python using chronological test windows and compared both models with simple frequency-based baselines.
+- **Smart Food Log** · I built a React and Expo web prototype for logging meals, editing portions, and reviewing daily totals. [Source code](https://github.com/pedrohenrimoreira/registro-alimentar-prototipo)
+- **K-Center Problem on Graphs** · I compared a heuristic with exhaustive search in Java to see how each approaches center selection on graphs. [Source code](https://github.com/pedrohenrimoreira/Graphs-TP02)
